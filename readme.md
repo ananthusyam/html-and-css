@@ -1,1 +1,1 @@
-#This is a layout using HTML and CSS.#
+This is a layout using HTML and CSS.
