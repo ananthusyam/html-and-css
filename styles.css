@@ -1,0 +1,40 @@
+h1 {
+    font-size: 48px;
+    font-family: 'Inter';
+}
+h2 {
+font-size: 36px;
+}
+h3 {
+    font-size: 28px;
+}
+body {
+    font-size: 21px;
+    margin: 0;
+}
+header {
+    text-align: center;
+    color: white;
+    background-color: #588C94;
+    padding: 50px 0;
+}
+.intro {
+    text-align: center;
+    margin: 110px 0;
+    
+}
+.columns {
+    display: flex;
+   text-align: center;
+    gap: 100px;
+    margin: 10px;
+    padding: 0 20px;
+}
+.footer {
+    background-color: #1D3C41;
+}
+.column {
+    color: aliceblue;
+    text-align: center;
+    width: 500px;
+}
